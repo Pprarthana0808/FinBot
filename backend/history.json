@@ -1,0 +1,381 @@
+[
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "contentSnippet": "\n\n1 of 28\nINVESTMENT REPORT \nJuly 1 – July 31, 2015\nJohn W. Doe\n100 Main St.\nBoston, MA  02201\n Envelope # BABCEJBBPRTLA\nWelcome to your new Fidelity statement.\nYour account numbers can be found on page 2 in the Accounts Included in this \nReport section. Your statement also has a new look and more information. We hope \nyou find the changes beneficial and we look forward to hearing your feedback.\nBrokerage services provided by \nFidelity Brokerage Services LLC (FBS), Member NYSE, SIPC (800) 544-6666. Brokerage accounts carried with National Financial Services LLC (NFS), Member NYSE, SIPC.\nThis PeriodYear-to-Date\nBeginning Portfolio Value $253,221.83  $232,643.16 \nAdditions 59,269.64  121,433.55 \nSubtractions-45,430.74-98,912.58\n-139.77-625.87\n7,161.4719,058.07\nTransaction Costs, Fees & Charges \nChange in Investment Value*              \nEnding Portfolio Value**\n $274,222.20  $274,222.20 \n*Appreciation or depreciation of your holdings due to price changes plus any distribution and \nincome ...",
+      "type": "401k",
+      "provider": "VANGUARD",
+      "employeeContributions": null,
+      "employerContributions": null,
+      "endingValue": null,
+      "allocation": {
+        "Stocks": 43724.65,
+        "Bonds": 15012.5,
+        "Cash": 32544.09
+      }
+    }
+  },
+  {
+    "name": "detailed_401k_fidelity_summary.pdf",
+    "summary": {
+      "error": "Failed to parse PDF"
+    }
+  },
+  {
+    "name": "sample_bank_statement.pdf",
+    "summary": {
+      "contentSnippet": "\n\nSample Bank Statement\nAccount Holder: John Doe\nAccount Number: 123456789\nStatement Period: 01/01/2025 - 01/31/2025\nDateDescriptionAmountBalance\n01/03/2025Direct Deposit - Employer+$3,000.00$5,500.00\n01/08/2025ATM Withdrawal-$200.00$5,300.00\n01/15/2025Online Purchase - Amazon-$120.50$5,179.50\n01/21/2025Check Deposit+$1,200.00$6,379.50\n01/30/2025Rent Payment-$2,000.00$4,379.50...",
+      "type": "bank",
+      "accountNumber": null,
+      "balance": null,
+      "transactions": [
+        "01/01/2025",
+        "01/31/2025",
+        "01/03/2025",
+        "01/08/2025",
+        "01/15/2025",
+        "01/21/2025",
+        "01/30/2025"
+      ]
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "contentSnippet": "\n\n1 of 28\nINVESTMENT REPORT \nJuly 1 – July 31, 2015\nJohn W. Doe\n100 Main St.\nBoston, MA  02201\n Envelope # BABCEJBBPRTLA\nWelcome to your new Fidelity statement.\nYour account numbers can be found on page 2 in the Accounts Included in this \nReport section. Your statement also has a new look and more information. We hope \nyou find the changes beneficial and we look forward to hearing your feedback.\nBrokerage services provided by \nFidelity Brokerage Services LLC (FBS), Member NYSE, SIPC (800) 544-6666. Brokerage accounts carried with National Financial Services LLC (NFS), Member NYSE, SIPC.\nThis PeriodYear-to-Date\nBeginning Portfolio Value $253,221.83  $232,643.16 \nAdditions 59,269.64  121,433.55 \nSubtractions-45,430.74-98,912.58\n-139.77-625.87\n7,161.4719,058.07\nTransaction Costs, Fees & Charges \nChange in Investment Value*              \nEnding Portfolio Value**\n $274,222.20  $274,222.20 \n*Appreciation or depreciation of your holdings due to price changes plus any distribution and \nincome ...",
+      "type": "401k",
+      "provider": "VANGUARD",
+      "employeeContributions": null,
+      "employerContributions": null,
+      "endingValue": null,
+      "allocation": {
+        "Stocks": 43724.65,
+        "Bonds": 15012.5,
+        "Cash": 32544.09
+      }
+    }
+  },
+  {
+    "name": "sample_401k_summary.pdf",
+    "summary": {
+      "error": "Failed to parse PDF"
+    }
+  },
+  {
+    "name": "detailed_401k_fidelity_summary.pdf",
+    "summary": {
+      "contentSnippet": "\n\nFidelity 401(k) Plan Statement\nStatement Period: May 1 - May 31, 2025\nPortfolio Summary\nBeginning Portfolio Value$140,000.00\nEmployee Contributions$1,200.00\nEmployer Contributions$600.00\nInvestment Gains$2,300.00\nFees-$50.00\nEnding Portfolio Value$144,050.00\nAsset Allocation\nU.S. Stocks45%\nInternational Stocks25%\nBonds20%\nCash & Short-term10%\nTop Holdings\nVanguard Total Stock Market Index Fund$45,000.0031%\nFidelity 500 Index Fund$30,000.0021%\nInternational Growth Fund$25,000.0017%\nBond Index Fund$20,000.0014%\nCash Reserve$10,000.007%\nOther$14,050.0010%\nContribution Summary\nDateSourceAmount\n05/03/2025Employee Deferral$600.00\n05/10/2025Employer Match$300.00\n05/17/2025Employee Deferral$600.00\n05/24/2025Employer Match$300.00\n\nFidelity 401(k) Plan Statement\nStatement Period: May 1 - May 31, 2025\nIncome Summary\nDividends$250.00\nInterest$100.00\nCapital Gains$1,950.00\nTotal Investment Income$2,300.00...",
+      "type": "401k",
+      "provider": "Vanguard",
+      "employeeContributions": "1,200.00",
+      "employerContributions": "600.00",
+      "endingValue": null,
+      "allocation": {
+        "Stocks": 0,
+        "Bonds": 0,
+        "Cash": 10000.007
+      }
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Vanguard Group",
+      "accountNumber": "1234-5678-9012",
+      "balance": "$100,000.00",
+      "employeeContributions": "$1,000.00/month",
+      "employerContributions": "$500.00/month",
+      "endingValue": "$101,050.00",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: XYZ Stock, 10 shares @ $100.00 each",
+        "Sell: ABC Bond, 5 bonds @ $200.00 each"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "balance": "$123,456.78",
+      "employeeContributions": "$1,000/month",
+      "endingValue": "$124,567.89",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 35,
+        "Cash": 5
+      },
+      "transactions": [
+        "Purchase of XYZ stock - $100",
+        "Sale of ABC stock - $200"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "balance": "$125,000.00",
+      "employeeContributions": "$1,000.00/month",
+      "employerContributions": "$2,000.00/quarter",
+      "endingValue": "$130,000.00",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 35,
+        "Cash": 5
+      },
+      "transactions": [
+        "Purchase: Amazon stocks - $2,500.00",
+        "Sell: Google shares - $4,000.00"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "accountNumber": "123-4567890-12",
+      "balance": "$100,500.00",
+      "employeeContributions": "$1,000.00 per month",
+      "employerContributions": "$500.00 per month",
+      "endingValue": "$102,000.00",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: Apple Inc. (AAPL) $500.00",
+        "Sell: Microsoft Corporation (MSFT) $1,000.00",
+        "Dividend received: ExxonMobil (XOM) $25.00"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Vanguard Group Inc.",
+      "accountNumber": "1234-567890",
+      "balance": "$250,000",
+      "employeeContributions": "$2,000 per month",
+      "employerContributions": "$1,500 per month",
+      "endingValue": "$300,000",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 25,
+        "Cash": 15
+      },
+      "transactions": [
+        "Purchase of Vanguard Total Stock Market Index Fund: $10,000",
+        "Employer Contribution: $1,500"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "accountNumber": "123-456789-012",
+      "balance": "$50,000.00",
+      "employeeContributions": "$1,000.00 monthly",
+      "employerContributions": "$500.00 monthly",
+      "endingValue": "$51,050.00",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: Apple Inc. - $1,500.00",
+        "Dividend Received: Microsoft Corporation - $50.00"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "accountNumber": "123-456789",
+      "balance": "$123,456.78",
+      "employeeContributions": "$500 per month",
+      "employerContributions": "$500 per month",
+      "endingValue": "$123,456.78",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 35,
+        "Cash": 5
+      },
+      "transactions": [
+        "Purchase of shares - Apple Inc. - $100",
+        "Dividend received - Microsoft Corp. - $20"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "XYZ Investments",
+      "balance": "$123,456.78",
+      "employeeContributions": "$500/month",
+      "employerContributions": "$1,000/month",
+      "endingValue": "$124,997.56",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: Apple Inc. (AAPL) 10 shares @ $120 each",
+        "Sale: Microsoft Corporation (MSFT) 5 shares @ $180 each"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "ABC Investments",
+      "balance": "$123,456.78",
+      "employeeContributions": "$10,000 annually",
+      "employerContributions": "$5,000 annually",
+      "endingValue": "$128,912.56",
+      "allocation": {
+        "Stocks": 70,
+        "Bonds": 20,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase of shares in XYZ Company - $3,500",
+        "Dividend reinvestment - $425",
+        "Withdrawal - $2,000"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "Fidelity Investments",
+      "balance": "$125,000",
+      "employeeContributions": "$6,000/year",
+      "employerContributions": "$6,000/year",
+      "endingValue": "$131,250",
+      "allocation": {
+        "Stocks": 70,
+        "Bonds": 25,
+        "Cash": 5
+      },
+      "transactions": [
+        "Purchase of XYZ stock: $1,000",
+        "Sale of ABC stock: $3,000"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "ABC Retirement Services",
+      "balance": "$123,456.78",
+      "employeeContributions": "$1,000/month",
+      "employerContributions": "$500/month",
+      "endingValue": "$125,996.68",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase of shares: Amazon - $500",
+        "Dividend payment: Google - $200"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "ABC Retirement Services",
+      "balance": "$567,890.23",
+      "employeeContributions": "$12,000",
+      "employerContributions": "$20,000",
+      "endingValue": "$599,890.23",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: ABC Company Stock - $2,000",
+        "Withdrawal: Hardship Withdrawal - $5,000"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "ABC Retirement Services",
+      "balance": "$123,456.78",
+      "employeeContributions": "$500.00/month",
+      "employerContributions": "$500.00/month",
+      "endingValue": "$124,956.78",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: $100 Apple Inc (AAPL)",
+        "$500 Employer Contribution"
+      ],
+      "contentSnippet": "..."
+    }
+  },
+  {
+    "name": "sample-new-fidelity-acnt-stmt.pdf",
+    "summary": {
+      "type": "401k",
+      "provider": "XYZ Retirement Services",
+      "accountNumber": "1234-56789-ABCDE",
+      "balance": "$100,000.00",
+      "employeeContributions": "$500 per month",
+      "employerContributions": "$250 per month",
+      "endingValue": "$102,750.00",
+      "allocation": {
+        "Stocks": 60,
+        "Bonds": 30,
+        "Cash": 10
+      },
+      "transactions": [
+        "Purchase: Apple Inc shares - $500",
+        "Dividend Received: Microsoft Corp - $200"
+      ],
+      "contentSnippet": "..."
+    }
+  }
+]
